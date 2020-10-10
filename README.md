@@ -1,6 +1,5 @@
 # Link to Tableau Public 
 * https://public.tableau.com/profile/phu.phan#!/vizhome/Tableau-hw_16021798359440/Story1?publish=yes
-
 # Some considerations:
 * I found that the "JC" dataset is smaller than the regular, so some of the bike station ID was excluded. 
 * There are 4 rows in the dataset, that the BirthYear entries is incorrect or typos, cause it produce for 132 years old to bike (sounds weird, but possible)
