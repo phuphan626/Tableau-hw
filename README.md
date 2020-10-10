@@ -1,3 +1,11 @@
+# Link to Tableau Public 
+* https://public.tableau.com/profile/phu.phan#!/vizhome/Tableau-hw_16021798359440/Story1?publish=yes
+
+# Some considerations:
+* I found that the "JC" dataset is smaller than the regular, so some of the bike station ID was excluded. 
+* There are 4 rows in the dataset, that the BirthYear entries is incorrect or typos, cause it produce for 132 years old to bike (sounds weird, but possible)
+* I used the Housing Unit layer for the map, to test my hypothesis : the most crowded area or subway area will have the busiest bike station, so the bikes at those station will be due for maintenance sooner. I found that Grove St PATH is the busiest one, so the bikes right there will need more maintenance.
+
 # Tableau Homework - Citi Bike Analytics
 
 ### Before You Begin
